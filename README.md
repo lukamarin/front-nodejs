@@ -1,6 +1,3 @@
-# Nodefront [![Build Status](https://secure.travis-ci.org/karthikv/nodefront.png)](http://travis-ci.org/karthikv/nodefront)
-
-To see a styled version of the documentation below, please visit [nodefront's website](http://karthikv.github.com/nodefront).
 
 ## Overview
 
@@ -332,21 +329,10 @@ Note that the last three options can be mix and matched as necessary to, for exa
 
 ```bash
 $ nodefront minify -cj
-```
-
-## Contributors
-### Karthik Viswanathan - nodefront core developer
-- GitHub: [@karthikv](https://github.com/karthikv)
-- Twitter: [@karthikvnet](https://twitter.com/karthikvnet)
-- Website: [http://karthikv.net](http://karthikv.net)
-- Email: me@karthikv.net
 
 ### Forbes Lindesay - [consolidate-build](https://github.com/ForbesLindesay/consolidate-build) core developer
 - GitHub: [@ForbesLindesay](https://github.com/ForbesLindesay)
 - Website: [http://www.jepso.com](http://www.jepso.com)
-
-## Questions?
-If you have any questions, comments, concerns, or suggestions, please feel free to create a new issue on [GitHub](https://github.com/karthikv/nodefront/issues) or contact Karthik directly (see contributors section above).
 
 ## Inspiration
 - [Volo](https://github.com/volojs/volo) - "A JavaScript dependency manager and project creation tool that favors GitHub for the package repository."
@@ -354,8 +340,6 @@ If you have any questions, comments, concerns, or suggestions, please feel free 
 
 ## License
 (The MIT License)
-
-Copyright (c) 2012 Karthik Viswanathan &lt;me@karthikv.net&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
